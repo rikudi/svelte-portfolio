@@ -6,6 +6,6 @@
 
 <Header />
 
-<div>
+<div class="leading-loose [&_a]:font-bold [&_a]:underline">
     <SvelteMarkdown source={data.about} />
 </div>
