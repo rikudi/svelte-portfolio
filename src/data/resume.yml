@@ -1,0 +1,78 @@
+---
+title: Riku Kaartoaho
+first_name: Riku
+last_name: Kaartoaho
+tagline: Software developer & designer
+experiences:
+  - date: Feb 2022 - Nov 2023
+    role: Warehouse Worker
+    place: Inex Partners SOK
+    location: Sipoo, Finland
+    type: Full-time/Part-time
+    desc:
+    bullets:
+      - Receivement, monitoring and management of incoming foodstuff transports.
+  - date: Nov 2022 - June 2023
+    role: Software Developer Intern
+    place: TUTORS Finland Oy
+    location: Hybrid
+    type: Internship
+    desc:
+    bullets:
+      - Building a game prototype with Unity, C#.
+      - Leadership and collaboration with a group of interns.
+      - Developing a full scale time management application with React.ts.
+  - date: Aug 2021 - Oct 2021
+    role: Web Tester Intern
+    place: Worldsome Oy
+    location: Remote
+    type: Internship
+    desc:
+    bullets:
+      - Test and documentation of web application.
+      - Simple development tasks.
+  - date: Jan 2017 - Sept 2019
+    role: Sales & Mechanic
+    place: Kaarto Rengas Oy
+    location: Kerava, Finland
+    type: Full-time
+    desc:
+    bullets:
+      - Sales of car wheels and tyres.
+      - Changing, fitting and mounting car wheels and tyres.
+educations:
+  - date: 2024 - 2027
+    degree: Bachelor of Engineering
+    major: Information Technology
+    school: Metropolia University of Applied Sciences
+    location: Espoo, Finland
+  - date: 2020 - 2023
+    degree: Vocational Qualification
+    major: Information Technology
+    school: Keuda Vocational College
+    location: Kerava, Finland
+skills:
+  - Javascript frameworks such as React, Svelte, Vue
+  - Full stack development with Node.js, Express, MongoDB
+  - CSS libraries such as Tailwind CSS, Bootstrap
+  - Game development with Unity, C#
+  - Python scripting and automation
+coursework:
+  - date: 2023
+    title: Full Stack Open
+    school: University of Helsinki
+    location: Online
+    desc: 
+      - Introduction to modern web development tools and technologies.
+certifications:
+  - date: 2022
+    title: Cybersecurity Essentials
+    issuer: Cisco Networking Academy
+    location: Online
+    desc: Foundational knowledge of cybersecurity, including basics of network security, encryption and cybersecurity laws.
+contacts:
+  - "Email: [riku.kaartoaho@gmail.com](mailto:riku.kaartoaho@gmail.com)"
+  - "LinkedIn: [linkedin.com/in/rikukaartoaho](https://linkedin.com/in/rikukaartoaho/)"
+  - "Github: [github.com/rikudi](https://github.com/rikudi)"
+  - "Instagram: [@rikukaartoaho](https://instagram.com/rikukaartoaho)"
+  - "Location: Kerava, Finland"
