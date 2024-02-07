@@ -11,7 +11,7 @@ experiences:
     type: Full-time/Part-time
     desc:
     bullets:
-      - Receivement, monitoring and management of incoming foodstuff transports.
+      - Receiving, monitoring and management of incoming foodstuff transports.
   - date: Nov 2022 - June 2023
     role: Software Developer Intern
     place: TUTORS Finland Oy
@@ -19,9 +19,9 @@ experiences:
     type: Internship
     desc:
     bullets:
-      - Building a game prototype with Unity, C#.
-      - Leadership and collaboration with a group of interns.
-      - Developing a full scale time management application with React.ts.
+      - Developing a game prototype with Unity, C#.
+      - Leading and collaborating with a group of interns.
+      - Front-end development of a time management application with React.ts.
   - date: Aug 2021 - Oct 2021
     role: Web Tester Intern
     place: Worldsome Oy
@@ -38,7 +38,7 @@ experiences:
     type: Full-time
     desc:
     bullets:
-      - Sales of car wheels and tyres.
+      - Sales & customer service.
       - Changing, fitting and mounting car wheels and tyres.
 educations:
   - date: 2024 - 2027
