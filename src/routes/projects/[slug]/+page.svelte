@@ -45,7 +45,7 @@
       <div class="grid grid-cols-1 gap-20">
         {#each data.photos as photo}
           <div class="flex max-h-screen items-center justify-center rounded sm:bg-slate-900 sm:p-20">
-            <img src={`./${photo}`} alt={`${data.title} by ${data.resume.title} - ${photo}`} class="max-h-[90vh] w-auto" />
+            <img src={`../${photo}`} alt={`${data.title} by ${data.resume.title} - ${photo}`} class="max-h-[90vh] w-auto" />
           </div>
         {/each}
       </div>

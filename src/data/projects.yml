@@ -1,6 +1,6 @@
 ---
 - title: MovieDB
-  thumb: projects/db.png
+  thumb: db.png
   date: '2023-12-31'
   url: https://github.com/rikudi/movieapp
   content: A full stack web application for browsing movies and TV shows. The app uses the TMDB API for fetching movie data.
