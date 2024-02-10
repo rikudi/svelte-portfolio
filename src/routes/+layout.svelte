@@ -1,4 +1,7 @@
-<script>import "../app.pcss";
+<script>
+  import "../app.pcss"
+  import { preparePageTransition } from "$lib/functions"
+  preparePageTransition()
 </script>
 
 <div class="text-gray-700 mb-24 mt-6 flex flex-col items-center justify-center px-6">
