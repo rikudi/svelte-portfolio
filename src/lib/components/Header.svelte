@@ -5,8 +5,8 @@
 
 <div class="flex gap-20 justify-start">
     <a class={`pt-2 border-b-2 hover:border-primary ${$page.url.pathname == "/" ? "border-b-primary" : "border-b-transparent"}`} href="/">about</a>
-    <a class={`pt-2 border-b-2 hover:border-primary ${$page.url.pathname == "/resume" ? "border-b-primary" : "border-b-transparent"} `} href="/resume">resume</a>
-    <a class={`pt-2 border-b-2 hover:border-primary ${$page.url.pathname == "/projects" ? "border-b-primary" : "border-b-transparent"} `} href="/projects">projects</a>
+    <a class={`pt-2 border-b-2 hover:border-primary ${$page.url.pathname == "/resume/" ? "border-b-primary" : "border-b-transparent"} `} href="/resume/">resume</a>
+    <a class={`pt-2 border-b-2 hover:border-primary ${$page.url.pathname == "/projects/" ? "border-b-primary" : "border-b-transparent"} `} href="/projects/">projects</a>
 </div>
 
 <div class="text-gray-700"> 
