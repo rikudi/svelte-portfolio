@@ -7,8 +7,6 @@
     import ExternalLink from "$lib/components/md/ExternalLink.svelte"
   
     export let data
-    console.log(data.thumb)
-    console.log(data.photos)
   </script>
   
   
