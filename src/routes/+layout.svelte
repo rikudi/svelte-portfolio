@@ -1,11 +1,16 @@
 <script>
   import "../app.pcss"
   import { preparePageTransition } from "$lib/functions"
-  preparePageTransition()
-
-  import { dev } from '$app/environment';
   import { inject } from '@vercel/analytics';
-  inject({ mode: dev ? 'development' : 'production' });
+  if (import.meta.env.MODE === 'production') {
+    preparePageTransition()
+
+    inject({ mode: 'production' });
+
+    console.log('Vercel Analytics is enabled.');
+  } else {
+    console.log('Vercel Analytics is disabled in development mode.');
+  }
 </script>
 
 <div class="text-gray-700 mb-24 mt-6 flex flex-col items-center justify-center px-6">
