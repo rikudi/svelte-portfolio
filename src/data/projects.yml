@@ -19,3 +19,25 @@
   - Express
   - MongoDB
   - MUI
+
+- title: Unity Horror Game Proto
+  thumb: hg/hg1.png
+  date: '2021-12-31'
+  url:
+  content: First person horror game prototype made with Unity. Experimenting with lighting, sound, atmosphere and player movement.
+  photos:
+    - hg/hg1.png
+    - hg/hg2.png
+    - hg/hg3.png
+    - hg/hg4.png
+
+  tags:
+  - Unity
+  - Horror
+  - C#
+  - Game Design
+  tools:
+  - Unity
+  - Horror
+  - C#
+  - Game Design
