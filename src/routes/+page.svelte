@@ -2,6 +2,7 @@
     import Header from "$lib/components/Header.svelte";
     import Footer from "$lib/components/Footer.svelte";
     import SvelteMarkdown from "svelte-markdown";
+    import Counter from "$lib/components/Counter.svelte";
     
     export let data: {
         about: string;
@@ -15,4 +16,7 @@
     <SvelteMarkdown source={data.about} />
 </div>
 
-<Footer/>
+<div class="flex min-w-full items-between justify-between gap-4">
+    <Footer/>
+    <Counter/>
+</div>
