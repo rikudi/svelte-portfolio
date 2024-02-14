@@ -1,4 +1,27 @@
 ---
+- title: ChatPDF AI SaaS
+  thumb: chatpdf.png
+  date: '2024-2-14'
+  url: 'https://github.com/rikudi/chatpdf'
+  content: AI powered SaaS for reading and summarizing PDF documents. NeonDB for user data and Clerk for authentication. AWS for file storage.
+  photos:
+    - chatpdf.png
+  tags:
+  - Next.js
+  - PostGreSQL
+  - Tailwind CSS
+  - AI
+  - SaaS
+  - ClerkAuth
+  - AWS
+  tools:
+  - Next.js
+  - PostGreSQL
+  - Tailwind CSS
+  - AI
+  - NeonDB
+  - ClerkAuth
+  - AWS
 - title: MovieDB
   thumb: db.png
   date: '2023-12-31'
@@ -19,7 +42,6 @@
   - Express
   - MongoDB
   - MUI
-
 - title: Unity Horror Game Proto
   thumb: hg/hg1.png
   date: '2021-12-31'
@@ -30,7 +52,6 @@
     - hg/hg2.png
     - hg/hg3.png
     - hg/hg4.png
-
   tags:
   - Unity
   - Horror
