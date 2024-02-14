@@ -1,5 +1,4 @@
 <script>
-    import { page } from "$app/stores"
     import { prettyUrl, formatDate } from "$lib/functions"
     import { convertToSlug } from "$lib/functions"
   
